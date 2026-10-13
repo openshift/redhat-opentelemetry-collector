@@ -12,7 +12,10 @@ RUN (command -v clang >/dev/null 2>&1 && command -v llvm-strip >/dev/null 2>&1) 
     rm -rf /var/cache/yum)
 
 COPY .obi-src .obi-src
-RUN GOFLAGS=-mod=mod make -C .obi-src generate
+# Build bpf2go from the main OBI module instead of internal/tools/go.mod so that
+# cachito does not need to prefetch 244 dev/lint/test-only modules.
+RUN go build -C .obi-src -mod=mod -o /tmp/bpf2go github.com/cilium/ebpf/cmd/bpf2go
+RUN GOFLAGS=-mod=mod BPF2GO=/tmp/bpf2go make -C .obi-src generate
 
 # ART/doozer replaces this with the rhel-9-golang stream from ocp-build-data at rebase time
 FROM registry.redhat.io/openshift/golang-builder:golang-builder-v1.26-rhel9 AS builder
