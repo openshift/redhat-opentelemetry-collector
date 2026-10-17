@@ -405,7 +405,7 @@ require (
 	github.com/vektah/gqlparser/v2 v2.5.35 // indirect
 	github.com/vishvananda/netlink v1.3.1 // indirect
 	github.com/vishvananda/netns v0.0.5 // indirect
-	github.com/vultr/govultr/v3 v3.31.2 // indirect
+	github.com/vultr/govultr/v3 v3.33.2 // indirect
 	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	github.com/xwb1989/sqlparser v0.0.0-20180606152119-120387863bf2 // indirect
