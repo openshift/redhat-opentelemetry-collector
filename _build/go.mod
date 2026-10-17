@@ -467,7 +467,7 @@ require (
 	go.opentelemetry.io/collector/receiver/receiverhelper v0.158.0 // indirect
 	go.opentelemetry.io/collector/receiver/receivertest v0.158.0 // indirect
 	go.opentelemetry.io/collector/receiver/xreceiver v0.158.0 // indirect
-	go.opentelemetry.io/collector/scraper v0.158.0 // indirect
+	go.opentelemetry.io/collector/scraper v0.163.0 // indirect
 	go.opentelemetry.io/collector/scraper/scraperhelper v0.158.0 // indirect
 	go.opentelemetry.io/collector/service/hostcapabilities v0.158.0 // indirect
 	go.opentelemetry.io/contrib/bridges/otelzap v0.19.0 // indirect
