@@ -419,7 +419,7 @@ require (
 	go.opentelemetry.io/collector/client v1.64.0 // indirect
 	go.opentelemetry.io/collector/component/componentstatus v0.158.0 // indirect
 	go.opentelemetry.io/collector/component/componenttest v0.158.0 // indirect
-	go.opentelemetry.io/collector/config/configauth v1.64.0 // indirect
+	go.opentelemetry.io/collector/config/configauth v1.69.0 // indirect
 	go.opentelemetry.io/collector/config/configcompression v1.64.0 // indirect
 	go.opentelemetry.io/collector/config/configgrpc v1.64.0 // indirect
 	go.opentelemetry.io/collector/config/confighttp v0.158.0 // indirect
