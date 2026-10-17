@@ -334,7 +334,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/topic v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.158.0 // indirect
-	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/resourcetotelemetry v0.158.0 // indirect
+	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/resourcetotelemetry v0.163.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/sampling v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/stanza v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/status v0.158.0 // indirect
