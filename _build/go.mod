@@ -321,7 +321,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/gopsutilenv v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/healthcheck v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig v0.158.0 // indirect
-	github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sinventory v0.158.0 // indirect
+	github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sinventory v0.163.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/kafka v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/kubelet v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/metadataproviders v0.158.0 // indirect
