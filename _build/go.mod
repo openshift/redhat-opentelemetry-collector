@@ -429,7 +429,7 @@ require (
 	go.opentelemetry.io/collector/config/configoptional v1.64.0 // indirect
 	go.opentelemetry.io/collector/config/configretry v1.64.0 // indirect
 	go.opentelemetry.io/collector/config/configtelemetry v0.158.0 // indirect
-	go.opentelemetry.io/collector/config/configtls v1.64.0 // indirect
+	go.opentelemetry.io/collector/config/configtls v1.69.0 // indirect
 	go.opentelemetry.io/collector/confmap/xconfmap v0.158.0 // indirect
 	go.opentelemetry.io/collector/connector/connectortest v0.158.0 // indirect
 	go.opentelemetry.io/collector/connector/xconnector v0.158.0 // indirect
