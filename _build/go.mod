@@ -417,7 +417,7 @@ require (
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/collector v0.158.0 // indirect
 	go.opentelemetry.io/collector/client v1.64.0 // indirect
-	go.opentelemetry.io/collector/component/componentstatus v0.158.0 // indirect
+	go.opentelemetry.io/collector/component/componentstatus v0.163.0 // indirect
 	go.opentelemetry.io/collector/component/componenttest v0.158.0 // indirect
 	go.opentelemetry.io/collector/config/configauth v1.64.0 // indirect
 	go.opentelemetry.io/collector/config/configcompression v1.64.0 // indirect
