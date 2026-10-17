@@ -469,7 +469,7 @@ require (
 	go.opentelemetry.io/collector/receiver/xreceiver v0.158.0 // indirect
 	go.opentelemetry.io/collector/scraper v0.158.0 // indirect
 	go.opentelemetry.io/collector/scraper/scraperhelper v0.158.0 // indirect
-	go.opentelemetry.io/collector/service/hostcapabilities v0.158.0 // indirect
+	go.opentelemetry.io/collector/service/hostcapabilities v0.163.0 // indirect
 	go.opentelemetry.io/contrib/bridges/otelzap v0.19.0 // indirect
 	go.opentelemetry.io/contrib/detectors/aws/ec2/v2 v2.5.1 // indirect
 	go.opentelemetry.io/contrib/detectors/aws/eks v1.44.0 // indirect
