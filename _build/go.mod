@@ -352,7 +352,7 @@ require (
 	github.com/openzipkin/zipkin-go v0.4.3 // indirect
 	github.com/oschwald/maxminddb-golang/v2 v2.2.0 // indirect
 	github.com/outcaste-io/ristretto v0.2.3 // indirect
-	github.com/outscale/osc-sdk-go/v2 v2.34.0 // indirect
+	github.com/outscale/osc-sdk-go/v2 v2.35.0 // indirect
 	github.com/ovh/go-ovh v1.9.0 // indirect
 	github.com/pb33f/jsonpath v0.8.2 // indirect
 	github.com/pb33f/libopenapi v0.37.2 // indirect
