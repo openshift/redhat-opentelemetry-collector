@@ -55,8 +55,8 @@ github.com/DataDog/go-sqllexer v0.1.12 h1:2eI/Mbs+fcHzXp4iwGz60V6mAWQNFOD/aa98Zl
 github.com/DataDog/go-sqllexer v0.1.12/go.mod h1:vOw7Ia7z+z6nl3zGZlLIZe0vQlPtCPR906WIPBJadxc=
 github.com/DeRuina/timberjack v1.4.9 h1:9RjDMSkUDQRYzwVNB/FLonXNurcZVEh9sK43m2jw3A4=
 github.com/DeRuina/timberjack v1.4.9/go.mod h1:DCXjOescYyzTrOryf57SEbSeCOqkBQ3QjH7Pn03i5Cs=
-github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.35.0 h1:bN1gA3of5bXtbnLsRPrwfmbbe7A5UWFlcTHseujLnpc=
-github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.35.0/go.mod h1:Yj5vHEz/aAepZGliRJsA6uvHAVAQyEwajq9ORCHPxzM=
+github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.38.0 h1:rmzbFS2CkHq0y2L5LkMVWm+QXjjNEXxjmhrJqga/QGk=
+github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.38.0/go.mod h1:iIyrdhveU5Ow84ipRlxtjCOQnIM0DiqSMxuxm50xwZY=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/collector v0.59.0 h1:BSvkZv4fq/WtLsAYkBRDAU/glkpNmv+pZW52Yi75e9Y=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/collector v0.59.0/go.mod h1:+Yu0p2dnypaNyFt9bsY8/v8/dTHoNV7ENdOk6NPvF/4=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v1.35.0 h1:PaC2zW6tfeh9rQydOQq6Pff4xpWwUDMCMolQXiypq0o=
