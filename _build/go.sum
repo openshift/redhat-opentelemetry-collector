@@ -8,8 +8,8 @@ cloud.google.com/go/auth/oauth2adapt v0.2.8 h1:keo8NaayQZ6wimpNSmW5OPc283g65QNIi
 cloud.google.com/go/auth/oauth2adapt v0.2.8/go.mod h1:XQ9y31RkqZCcwJWNSx2Xvric3RrU88hAYYbjDWYDL+c=
 cloud.google.com/go/compute v1.63.0 h1:KsBourH0wajM4RhzwPwRMKbxHVdvzGsk7StvACoWXD8=
 cloud.google.com/go/compute v1.63.0/go.mod h1:Xm6PbsLgBpAg4va77ljbBdpMjzuU+uPp5Ze2dnZq7lw=
-cloud.google.com/go/compute/metadata v0.9.0 h1:pDUj4QMoPejqq20dK0Pg2N4yG9zIkYGdBtwLoEkH9Zs=
-cloud.google.com/go/compute/metadata v0.9.0/go.mod h1:E0bWwX5wTnLPedCKqk3pJmVgCBSM6qQI1yTBdEb3C10=
+cloud.google.com/go/compute/metadata v0.10.0 h1:pyKMUQSwchgkIBBJGdILqQbs/BNJXqwSA7Ej6LAvvtY=
+cloud.google.com/go/compute/metadata v0.10.0/go.mod h1:rGFHRrIif570kSibjFTMbt6/4/tzgJWFGI/HVol4GIk=
 cloud.google.com/go/logging v1.20.0 h1:l7yzCB8/JSY5PHT9RsaqdT1jaBGbM6KlSJDX210HlXM=
 cloud.google.com/go/logging v1.20.0/go.mod h1:ALUaJQZM691Eeujy9kFx0xREq3AMPuGd+pTRZuTYv+w=
 cloud.google.com/go/longrunning v1.3.0 h1:lZ6c8SJJBmILp/Wnr3vGnBLa0q+cYfSHRCcUfVI2hpI=
