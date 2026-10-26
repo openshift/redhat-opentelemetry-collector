@@ -487,8 +487,8 @@ github.com/hashicorp/mdns v1.0.4/go.mod h1:mtBihi+LeNXGtG8L9dX59gAEa12BDtBQSp4v/
 github.com/hashicorp/memberlist v0.5.0/go.mod h1:yvyXLpo0QaGE59Y7hDTsTzDD25JYBZ4mHgHUZ8lrOI0=
 github.com/hashicorp/memberlist v0.5.4 h1:40YY+3qq2tAUhZIMEK8kqusKZBBjdwJ3NUjvYkcxh74=
 github.com/hashicorp/memberlist v0.5.4/go.mod h1:OgN6xiIo6RlHUWk+ALjP9e32xWCoQrsOCmHrWCm2MWA=
-github.com/hashicorp/nomad/api v0.0.0-20260616181215-ea1ca2d932bf h1:pU9wD+K2z1mY8ypEmMlfnuxPURG6Vf/OCZsyuWP/3AE=
-github.com/hashicorp/nomad/api v0.0.0-20260616181215-ea1ca2d932bf/go.mod h1:Kr8imJwigbQ/50BqVae2+JL+AyX+FnzbnuCoIFb6iYg=
+github.com/hashicorp/nomad/api v0.0.0-20261023132456-89d539f03fc3 h1:Q8q3/5vrViMVCxbBwx1Aj67DEkGwCUq45UG1zeHkVQY=
+github.com/hashicorp/nomad/api v0.0.0-20261023132456-89d539f03fc3/go.mod h1:x/V7eEDwMx7UTOAb/Bc4mMsTfy5GdOP4sQY0a4Mmm1g=
 github.com/hashicorp/serf v0.10.1 h1:Z1H2J60yRKvfDYAOZLd2MU0ND4AH/WDz7xYHDWQsIPY=
 github.com/hashicorp/serf v0.10.1/go.mod h1:yL2t6BqATOLGc5HF7qbFkTfXoPIY0WZdWHfEvMqbG+4=
 github.com/hetznercloud/hcloud-go/v2 v2.44.0 h1:1p9qwaZ/H55nLP9c7WfuwUA0LfsexS2YHOhD8+iBga8=
