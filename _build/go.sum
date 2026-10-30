@@ -70,8 +70,8 @@ github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapp
 github.com/Masterminds/semver/v3 v3.5.0 h1:kQceYJfbupGfZOKZQg0kou0DgAKhzDg2NZPAwZ/2OOE=
 github.com/Masterminds/semver/v3 v3.5.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
 github.com/Microsoft/go-winio v0.5.0/go.mod h1:JPGBdM1cNvN/6ISo+n8V5iA4v8pBzdOpzfwIujj1a84=
-github.com/Microsoft/go-winio v0.6.2 h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERoyfY=
-github.com/Microsoft/go-winio v0.6.2/go.mod h1:yd8OoFMLzJbo9gZq8j5qaps8bJ9aShtEA8Ipt1oGCvU=
+github.com/Microsoft/go-winio v0.6.4 h1:kJF2pamtYCWXf0xAT8sAkwKC0pMl2HYBrRPHAqyUc+g=
+github.com/Microsoft/go-winio v0.6.4/go.mod h1:1xl5JXG4ze/m74GH6Dc4Mwxfc3VL5siRVQjIAlHH07U=
 github.com/Showmax/go-fqdn v1.0.0 h1:0rG5IbmVliNT5O19Mfuvna9LL7zlHyRfsSvBPZmF9tM=
 github.com/Showmax/go-fqdn v1.0.0/go.mod h1:SfrFBzmDCtCGrnHhoDjuvFnKsWjEQX/Q9ARZvOrJAko=
 github.com/agnivade/levenshtein v1.2.2 h1:fI8RgiztYX1Nn5pBHHqQ9EMCCklhrmXqPRIedFmx5M4=
@@ -964,8 +964,8 @@ github.com/shurcooL/httpfs v0.0.0-20230704072500-f1e31cf0ba5c/go.mod h1:owqhoLW1
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/sirupsen/logrus v1.7.0/go.mod h1:yWOB1SBYBC5VeMP7gHvWumXLIWorT60ONWic61uBYv0=
-github.com/sirupsen/logrus v1.9.4 h1:TsZE7l11zFCLZnZ+teH4Umoq5BhEIfIzfRDZ1Uzql2w=
-github.com/sirupsen/logrus v1.9.4/go.mod h1:ftWc9WdOfJ0a92nsE2jF5u5ZwH8Bv2zdeOC42RjbV2g=
+github.com/sirupsen/logrus v1.10.2 h1:G2SED73/qrAu6YwbdxOD6peLkCBI3z7L+ykJFTXJBBo=
+github.com/sirupsen/logrus v1.10.2/go.mod h1:SLEg8TqYulVKKfIGHldVp2K2aYz2DKSVBq4g/H5bR7Q=
 github.com/spf13/cobra v1.10.2 h1:DMTTonx5m65Ic0GOoRY2c16WCbHxOOw6xxezuLaBpcU=
 github.com/spf13/cobra v1.10.2/go.mod h1:7C1pvHqHw5A4vrJfjNwvOdzYu0Gml16OCs2GRiTUUS4=
 github.com/spf13/pflag v1.0.9/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
@@ -1092,8 +1092,8 @@ go.opentelemetry.io/collector/config/confighttp v0.158.0 h1:6bABpuHNBPVkIxVvAy1b
 go.opentelemetry.io/collector/config/confighttp v0.158.0/go.mod h1:1D+IucE15eZr2DjieUWb6k4qw+1CGkMhM8tMv1OP2SY=
 go.opentelemetry.io/collector/config/configmiddleware v1.64.0 h1:HymcYyETMCBo+Q7VNVM/NTUFEqHmO1CUwcGSXOFuios=
 go.opentelemetry.io/collector/config/configmiddleware v1.64.0/go.mod h1:BCTFqgTj37yuKzmZWWCsQN/wfinKz2VRBCtciincGck=
-go.opentelemetry.io/collector/config/confignet v1.64.0 h1:VzABpDK0NGBLbvQJtlgfiwzEEoNMcY5Q3raU1E5Ko4Q=
-go.opentelemetry.io/collector/config/confignet v1.64.0/go.mod h1:Op+r1B/DtzXgIuKEL7/JkTqtJdL9veu2uEXvSxH3lks=
+go.opentelemetry.io/collector/config/confignet v1.70.0 h1:jh2oLtODWYr6BmUJTaiRKaj/PkcKFDiX8rR+Ou26UDM=
+go.opentelemetry.io/collector/config/confignet v1.70.0/go.mod h1:wickfiImiQTkSdshEl6CT9IDhir48m3VlqHlRI0SSiM=
 go.opentelemetry.io/collector/config/configopaque v1.64.0 h1:ALI1yFcUAchX2++YpxoIZc5Pup25+XwaLVi1LhgS55A=
 go.opentelemetry.io/collector/config/configopaque v1.64.0/go.mod h1:AHto1qVAoXPijVKZ6wxhXLGYn+A3neIIIyLOt/geXpQ=
 go.opentelemetry.io/collector/config/configoptional v1.64.0 h1:J2raz2ZmV10DGFIn/vJdJjnPeEfmv8t93GArtgl2E7c=
