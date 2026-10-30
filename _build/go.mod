@@ -335,7 +335,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/resourcetotelemetry v0.158.0 // indirect
-	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/sampling v0.158.0 // indirect
+	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/sampling v0.164.1 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/stanza v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/status v0.158.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/azure v0.158.0 // indirect
@@ -447,14 +447,14 @@ require (
 	go.opentelemetry.io/collector/extension/extensionmiddleware v0.158.0 // indirect
 	go.opentelemetry.io/collector/extension/extensiontest v0.158.0 // indirect
 	go.opentelemetry.io/collector/extension/xextension v0.158.0 // indirect
-	go.opentelemetry.io/collector/featuregate v1.64.0 // indirect
+	go.opentelemetry.io/collector/featuregate v1.70.0 // indirect
 	go.opentelemetry.io/collector/filter v0.158.0 // indirect
 	go.opentelemetry.io/collector/internal/componentalias v0.158.0 // indirect
 	go.opentelemetry.io/collector/internal/fanoutconsumer v0.158.0 // indirect
 	go.opentelemetry.io/collector/internal/memorylimiter v0.158.0 // indirect
 	go.opentelemetry.io/collector/internal/sharedcomponent v0.158.0 // indirect
 	go.opentelemetry.io/collector/internal/telemetry v0.158.0 // indirect
-	go.opentelemetry.io/collector/pdata v1.64.0 // indirect
+	go.opentelemetry.io/collector/pdata v1.70.0 // indirect
 	go.opentelemetry.io/collector/pdata/pprofile v0.158.0 // indirect
 	go.opentelemetry.io/collector/pdata/testdata v0.158.0 // indirect
 	go.opentelemetry.io/collector/pdata/xpdata v0.158.0 // indirect
