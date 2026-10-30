@@ -705,8 +705,8 @@ github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssette
 github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssetterextension v0.158.0/go.mod h1:MuKIjjCReV0onYExW5RgvGBMW9xGuD3GFe4kKj7RQZA=
 github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckextension v0.158.0 h1:sfEAvmh9rdzPmukfWG6hVu4cXopVV9bkxmjsvbq8yVw=
 github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckextension v0.158.0/go.mod h1:EqQC517uyXitIVDsA+Mh7kn/sOpTM3KThWIaMl2iWvM=
-github.com/open-telemetry/opentelemetry-collector-contrib/extension/internal/credentialsfile v0.158.0 h1:+us7a73zXaLEkdRCNhUCmUes8mdCbWW89DNaq6u6cu8=
-github.com/open-telemetry/opentelemetry-collector-contrib/extension/internal/credentialsfile v0.158.0/go.mod h1:0nfwGqsMcIopck+Yo0qLiSnS6aDPSkXjSMW3bjQ8t8U=
+github.com/open-telemetry/opentelemetry-collector-contrib/extension/internal/credentialsfile v0.164.1 h1:vpduXxTsc+W2DKl67bbKHy9C35F5/lyw3dbp4+pf36s=
+github.com/open-telemetry/opentelemetry-collector-contrib/extension/internal/credentialsfile v0.164.1/go.mod h1:ES7NpVsTrG0v/t8k3FOkEtoGQlcif3il2Lc9hwnP9sE=
 github.com/open-telemetry/opentelemetry-collector-contrib/extension/jaegerremotesampling v0.158.0 h1:BwfnMtAZo0xD4qT6TCtndykWeu0r0nPG8+bqBdlvcck=
 github.com/open-telemetry/opentelemetry-collector-contrib/extension/jaegerremotesampling v0.158.0/go.mod h1:KgNuRKpnEGzeyXyRr/u2qEbIhobRkwZVXBsilTuK7No=
 github.com/open-telemetry/opentelemetry-collector-contrib/extension/k8sleaderelector v0.158.0 h1:Ve5hp4jpmn5MMW3WVAaPyr3OwRUbQ0nld7AcgCCBMY8=
