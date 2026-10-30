@@ -769,8 +769,8 @@ github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.158.0 h1
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.158.0/go.mod h1:9hJciyZsHqyD0EJ9la6fUWsCNIr+oeW11zX9sxXFt3k=
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/configkafka v0.158.0 h1:nnQwHLy/eI5P7K7Hgz3vSDzsfYp8hrgNXk7Ql48RwAg=
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/configkafka v0.158.0/go.mod h1:fVuQNhp2e4JUayl1m0f5AVocLUQKl7NEQAbOl3LOXXo=
-github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/topic v0.158.0 h1:4aHbjap19Z0N++hCcPBSn0801eiekPrnwZpCMasZKoM=
-github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/topic v0.158.0/go.mod h1:CnkW4xd+Xa6MvVtuY5CKkQtEdb2Sazq7E4rRI/F7nJY=
+github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/topic v0.164.1 h1:EBa1W5YbBcoVCsJucDpnJ0DOOme+qAY/lHOlGBGBtuw=
+github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/topic v0.164.1/go.mod h1:5dBCwOfN6cYeWrCgcnUJFa0F4iF4IcqgBi+0w31tkk4=
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl v0.158.0 h1:zyRJlyCMNyQJKsmDZ2ys0Cn/fmPzWZaPeKxHR4AoAC8=
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl v0.158.0/go.mod h1:bgiIDQbe9NKz6a0BiPPrI6KEjudwnPL5+tgDYWdfgYo=
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.158.0 h1:EGZCqLaMY+draoj5ENVnc94OVUosiatTdMn4Y8Vz2u8=
