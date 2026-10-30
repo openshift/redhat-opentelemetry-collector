@@ -51,8 +51,8 @@ github.com/DataDog/datadog-agent/pkg/obfuscate v0.77.0-devel.0.20260213154712-e0
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/DataDog/datadog-go/v5 v5.8.3 h1:s58CUJ9s8lezjhTNJO/SxkPBv2qZjS3ktpRSqGF5n0s=
 github.com/DataDog/datadog-go/v5 v5.8.3/go.mod h1:K9kcYBlxkcPP8tvvjZZKs/m1edNAUFzBbdpTUKfCsuw=
-github.com/DataDog/go-sqllexer v0.1.12 h1:2eI/Mbs+fcHzXp4iwGz60V6mAWQNFOD/aa98ZluJJ7c=
-github.com/DataDog/go-sqllexer v0.1.12/go.mod h1:vOw7Ia7z+z6nl3zGZlLIZe0vQlPtCPR906WIPBJadxc=
+github.com/DataDog/go-sqllexer v0.2.6 h1:ZRwIYWbM3V2zPNlicUAumXabcitpC6JvWs9jUQS90Tk=
+github.com/DataDog/go-sqllexer v0.2.6/go.mod h1:3xTFXBU69vUikYpESggScvC0RKYA7ZIdVrIkLwUOWdE=
 github.com/DeRuina/timberjack v1.4.9 h1:9RjDMSkUDQRYzwVNB/FLonXNurcZVEh9sK43m2jw3A4=
 github.com/DeRuina/timberjack v1.4.9/go.mod h1:DCXjOescYyzTrOryf57SEbSeCOqkBQ3QjH7Pn03i5Cs=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.35.0 h1:bN1gA3of5bXtbnLsRPrwfmbbe7A5UWFlcTHseujLnpc=
