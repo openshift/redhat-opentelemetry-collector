@@ -1034,8 +1034,8 @@ github.com/twmb/franz-go/plugin/kzap v1.1.2 h1:0arX5xJ0soUPX1LlDay6ZZoxuWkWk1lgg
 github.com/twmb/franz-go/plugin/kzap v1.1.2/go.mod h1:53Cl9Uz1pbdOPDvUISIxLrZIWSa2jCuY1bTMauRMBmo=
 github.com/twmb/murmur3 v1.1.8 h1:8Yt9taO/WN3l08xErzjeschgZU2QSrwm1kclYq+0aRg=
 github.com/twmb/murmur3 v1.1.8/go.mod h1:Qq/R7NUyOfr65zD+6Q5IHKsJLwP7exErjN6lyyq3OSQ=
-github.com/ua-parser/uap-go v0.0.0-20251207011819-db9adb27a0b8 h1:yS0rzVnj7Z/ZeHzvv5erQbO2b8gyTL4CeMNodl9SJMQ=
-github.com/ua-parser/uap-go v0.0.0-20251207011819-db9adb27a0b8/go.mod h1:gwANdYmo9R8LLwGnyDFWK2PMsaXXX2HhAvCnb/UhZsM=
+github.com/ua-parser/uap-go v0.0.0-20261028195011-4cb30e998c4c h1:rmrcmINH926KiFjNwWA7ae2XCxtGa8RurT8lXhO7iBQ=
+github.com/ua-parser/uap-go v0.0.0-20261028195011-4cb30e998c4c/go.mod h1:DMOllS5Q12rlA83y42BIfm6qq2wwZVVs2mLx8k2w3F8=
 github.com/valyala/fastjson v1.6.10 h1:/yjJg8jaVQdYR3arGxPE2X5z89xrlhS0eGXdv+ADTh4=
 github.com/valyala/fastjson v1.6.10/go.mod h1:e6FubmQouUNP73jtMLmcbxS6ydWIpOfhz34TSfO3JaE=
 github.com/vektah/gqlparser/v2 v2.5.64 h1:N32yM6hQ6Kd5RdjCCEJsUrbCebVoA9yLLMOIa88Mkk0=
