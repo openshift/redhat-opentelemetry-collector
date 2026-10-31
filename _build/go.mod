@@ -91,7 +91,7 @@ require (
 	cloud.google.com/go/logging v1.21.0 // indirect
 	cloud.google.com/go/longrunning v1.4.0 // indirect
 	cloud.google.com/go/monitoring v1.32.0 // indirect
-	cloud.google.com/go/trace v1.16.0 // indirect
+	cloud.google.com/go/trace v1.18.0 // indirect
 	github.com/AlessandroPomponio/go-gibberish v0.0.0-20191004143433-a2d4156f0396 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.22.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.14.0 // indirect

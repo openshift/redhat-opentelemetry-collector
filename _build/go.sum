@@ -16,8 +16,8 @@ cloud.google.com/go/longrunning v1.4.0 h1:l53OXv/ZAQCvATPqdYIqxruIUa1+eeX3Ckg0EB
 cloud.google.com/go/longrunning v1.4.0/go.mod h1:HAJuq0kD9eDyV6DtaN+0b6niPzFFFf9QMMHkHD7DvMc=
 cloud.google.com/go/monitoring v1.32.0 h1:0bXxoh3o751jZnKDHgUDajaG8ZtqtKPMxhVmohRHI0Q=
 cloud.google.com/go/monitoring v1.32.0/go.mod h1:FxmFKr7SUhb60LDuYvjUc6bk9i1+LyXaENR5qAEibrM=
-cloud.google.com/go/trace v1.16.0 h1:GmQovzFc5F0CNfl0VLgL64aoTtu7xsM0YajW2GlG9+E=
-cloud.google.com/go/trace v1.16.0/go.mod h1:r+bdAn16dKLSV1G2D5v3e58IlQlizfxWrUfjx7kM7X0=
+cloud.google.com/go/trace v1.18.0 h1:D1oFZvnNX8mOGeLXMCz85FvEecy3XgpeEmro8qZSs4w=
+cloud.google.com/go/trace v1.18.0/go.mod h1:Hg/EjByyL2TAtxkFp5gYTrVaxkS0J3DdmahiheEjaBk=
 dario.cat/mergo v1.0.2 h1:85+piFYR1tMbRrLcDwR18y4UKJ3aH1Tbzi24VRW1TK8=
 dario.cat/mergo v1.0.2/go.mod h1:E/hbnu0NxMFBjpMIE34DRGLWqDy0g5FuKDhCb31ngxA=
 github.com/AlessandroPomponio/go-gibberish v0.0.0-20191004143433-a2d4156f0396 h1:cKIHT8I2mrmw/VgdyNeACP/AvetK8AgGsiRfOC3ZjmQ=
