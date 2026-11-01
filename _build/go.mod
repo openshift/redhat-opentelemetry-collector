@@ -375,7 +375,7 @@ require (
 	github.com/prometheus/prometheus v0.313.2 // indirect
 	github.com/prometheus/sigv4 v0.4.1 // indirect
 	github.com/puzpuzpuz/xsync/v4 v4.5.0 // indirect
-	github.com/relvacode/iso8601 v1.8.0 // indirect
+	github.com/relvacode/iso8601 v1.8.3 // indirect
 	github.com/rs/cors v1.11.1 // indirect
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.37 // indirect
 	github.com/shirou/gopsutil/v4 v4.26.7 // indirect
