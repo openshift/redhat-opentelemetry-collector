@@ -136,7 +136,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.23 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.65.7 // indirect
-	github.com/aws/aws-sdk-go-v2/service/lightsail v1.69.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/lightsail v1.70.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/rds v1.131.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/servicediscovery v1.49.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/signin v1.12.0 // indirect
