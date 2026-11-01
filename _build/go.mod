@@ -130,7 +130,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.8.8 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.5.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.90.3 // indirect
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.342.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.343.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ecs v1.103.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/elasticache v1.64.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.23 // indirect
