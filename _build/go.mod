@@ -2,7 +2,7 @@
 
 module github.com/openshift/redhat-opentelemetry-collector
 
-go 1.26.0
+go 1.27
 
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/connector/countconnector v0.158.0
