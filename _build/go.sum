@@ -1073,7 +1073,6 @@ go.mongodb.org/mongo-driver/v2 v2.6.0/go.mod h1:yOI9kBsufol30iFsl1slpdq1I0eHPzyb
 go.opentelemetry.io/auto/sdk v1.2.1 h1:jXsnJ4Lmnqd11kwkBV2LgLoFMZKizbCi5fNZ/ipaZ64=
 go.opentelemetry.io/auto/sdk v1.2.1/go.mod h1:KRTj+aOaElaLi+wW1kO/DZRXwkF4C5xPbEe3ZiIhN7Y=
 go.opentelemetry.io/collector v0.158.0 h1:Y6O3795ZteSA60Ak+m7WSzLpwtq/Ea/CPfqJ44VcAnk=
-go.opentelemetry.io/collector v0.158.0/go.mod h1:mHFIfs11GAfPkvE+gDtq9K+pI5YlfaS0XmAtiizeYP4=
 go.opentelemetry.io/collector/client v1.64.0 h1:+55Y6GKU63ywmaA7yYyiJcf2n9WPafvLnhMX1N9jHWk=
 go.opentelemetry.io/collector/client v1.64.0/go.mod h1:i4mD/B31Rj08ENTPlmbSQaPATN0ki6mTwQ01PXC60uQ=
 go.opentelemetry.io/collector/component v1.64.0 h1:c8663Y++GIsnRDn4itl2q1i7aGgCXrIdTWUUHNe78Ow=
@@ -1184,6 +1183,8 @@ go.opentelemetry.io/collector/internal/memorylimiter v0.158.0 h1:W8WUvwUXDjJZey4
 go.opentelemetry.io/collector/internal/memorylimiter v0.158.0/go.mod h1:0naiJ4igMbc2aTV60SLRszT/9kgG4IHUc/3O9wZiBH0=
 go.opentelemetry.io/collector/internal/sharedcomponent v0.158.0 h1:mDhimET8f2kKlOke/eRLz47/pRuwst7tRa4vqXIOIc0=
 go.opentelemetry.io/collector/internal/sharedcomponent v0.158.0/go.mod h1:kJGbnNSTsn6c7GSXz7KDv+I/JmXMqAzg8lXN/LjaaXQ=
+go.opentelemetry.io/collector/internal/statusutil v0.164.0 h1:dsU1zjysHFhF/gXOwllze0MHKiaXtodIaqB9G4ij3NM=
+go.opentelemetry.io/collector/internal/statusutil v0.164.0/go.mod h1:ZXwHY6Q3YyH5fgkK7VDk9+UEumPIcMbqlsAObX8VOT0=
 go.opentelemetry.io/collector/internal/telemetry v0.158.0 h1:FI0LSD7epT9yjoYJ/sHe1KHQe/dHpJrDcqLwNR5GpOE=
 go.opentelemetry.io/collector/internal/telemetry v0.158.0/go.mod h1:l0DePpMlZ2lTJxXDo92wNJcDRfPNyb56x7AOt4jdW4Y=
 go.opentelemetry.io/collector/internal/testutil v0.158.0 h1:ypt51JFMdHKoB6nODafWcUq9MiexCelDJ2zxXNu1xWo=
