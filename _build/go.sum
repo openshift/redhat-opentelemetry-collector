@@ -739,8 +739,8 @@ github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v
 github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v0.158.0/go.mod h1:xwoK4WXEJna6ydH8DfqsiQa2iO+i236xnFwQosJHjKI=
 github.com/open-telemetry/opentelemetry-collector-contrib/internal/filter v0.158.0 h1:gBgjuVwdN+yHgzjZfVpdQcrKcaiKsdi2QoXUuFDoRMs=
 github.com/open-telemetry/opentelemetry-collector-contrib/internal/filter v0.158.0/go.mod h1:tKgwceYRU62lbxoGbL8F9k8J1a9nmRGoOj0t2opzTtI=
-github.com/open-telemetry/opentelemetry-collector-contrib/internal/gopsutilenv v0.158.0 h1:l+TomDQCSN4yaQuTA15h76XM1I1wjz2LHs3XnP7eKhQ=
-github.com/open-telemetry/opentelemetry-collector-contrib/internal/gopsutilenv v0.158.0/go.mod h1:h0kFLNInFf8s1aPeWBTL1NgDyaH4eYQ8A6fkfh52XZA=
+github.com/open-telemetry/opentelemetry-collector-contrib/internal/gopsutilenv v0.164.1 h1:RVLgmlpKMO8m1Td8bhWdwcwr9bH/6YTsoYLj0yWXW/4=
+github.com/open-telemetry/opentelemetry-collector-contrib/internal/gopsutilenv v0.164.1/go.mod h1:dTGMCN36x7kqmLP6rfL5heJKk9zp17HOhsise3jK1as=
 github.com/open-telemetry/opentelemetry-collector-contrib/internal/healthcheck v0.158.0 h1:tHuL0+Zm6cHHqpm1A8m4nr2elEr+PwCh/P0EDkoH4xg=
 github.com/open-telemetry/opentelemetry-collector-contrib/internal/healthcheck v0.158.0/go.mod h1:Z8YHco0wO2AcZfKPfwt/g9kgcB1ZmG/smUf6ZpxmYFc=
 github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig v0.158.0 h1:QZnb2cpyu7Ai0PILS1LW/cWp9STUI2cQ7oSZF9daUSU=
