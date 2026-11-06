@@ -1044,8 +1044,8 @@ github.com/vishvananda/netlink v1.3.1 h1:3AEMt62VKqz90r0tmNhog0r/PpWKmrEShJU0wJW
 github.com/vishvananda/netlink v1.3.1/go.mod h1:ARtKouGSTGchR8aMwmkzC0qiNPrrWO5JS/XMVl45+b4=
 github.com/vishvananda/netns v0.0.5 h1:DfiHV+j8bA32MFM7bfEunvT8IAqQ/NzSJHtcmW5zdEY=
 github.com/vishvananda/netns v0.0.5/go.mod h1:SpkAiCQRtJ6TvvxPnOSyH3BMl6unz3xZlaprSwhNNJM=
-github.com/vultr/govultr/v3 v3.31.2 h1:2l3/KDvfemG+4azw4LLquJoh9mFOAVEdBXtPPzix3ac=
-github.com/vultr/govultr/v3 v3.31.2/go.mod h1:2zyUw9yADQaGwKnwDesmIOlBNLrm7edsCfWHFJpWKf8=
+github.com/vultr/govultr/v3 v3.33.2 h1:cgQk4rDLwKMk3FwXL73Rf/aZDnps8N29VPo000E1eBQ=
+github.com/vultr/govultr/v3 v3.33.2/go.mod h1:2zyUw9yADQaGwKnwDesmIOlBNLrm7edsCfWHFJpWKf8=
 github.com/wk8/go-ordered-map/v2 v2.1.8 h1:5h/BUHu93oj4gIdvHHHGsScSTMijfx5PeYkE/fJgbpc=
 github.com/wk8/go-ordered-map/v2 v2.1.8/go.mod h1:5nJHM5DyteebpVlHnWMV0rPz6Zp7+xBAnxjb1X5vnTw=
 github.com/x448/float16 v0.8.4 h1:qLwI1I70+NjRFUR3zs1JPUCgaCXSh3SW62uAKT1mSBM=
