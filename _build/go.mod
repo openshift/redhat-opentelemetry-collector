@@ -105,10 +105,10 @@ require (
 	github.com/DataDog/go-sqllexer v0.2.6 // indirect
 	github.com/DeRuina/timberjack v1.4.9 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.38.0 // indirect
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/collector v0.59.0 // indirect
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v1.35.0 // indirect
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/collector v0.62.0 // indirect
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v1.38.0 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/extension/googleclientauthextension v0.59.0 // indirect
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.59.0 // indirect
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.62.0 // indirect
 	github.com/Masterminds/semver/v3 v3.5.0 // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/Showmax/go-fqdn v1.0.0 // indirect
