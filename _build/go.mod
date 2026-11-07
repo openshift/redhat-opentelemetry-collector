@@ -2,7 +2,7 @@
 
 module github.com/openshift/redhat-opentelemetry-collector
 
-go 1.26.0
+go 1.27
 
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/connector/countconnector v0.158.0
@@ -544,7 +544,7 @@ require (
 	sigs.k8s.io/controller-runtime v0.23.3 // indirect
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
-	sigs.k8s.io/structured-merge-diff/v6 v6.4.2 // indirect
+	sigs.k8s.io/structured-merge-diff/v6 v6.4.0 // indirect
 	sigs.k8s.io/yaml v1.6.0 // indirect
 )
 
