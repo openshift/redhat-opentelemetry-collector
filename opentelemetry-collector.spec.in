@@ -12,7 +12,7 @@ Collector with the supported components for a Red Hat build of OpenTelemetry}
 %global godocs        README.md
 
 Name:           %%PROJECT%%
-Release:        2%{?dist}
+Release:        1%{?dist}
 Summary:        Red Hat build of OpenTelemetry
 
 License:        Apache-2.0
@@ -107,6 +107,8 @@ fi
 %{_bindir}/*
 
 %changelog
+* Mon Nov 10 2026 Ozzy Walsh <ozwalsh@redhat.com> - 0.163.2-1
+- bump collector version to 0.163.2
 * Mon Sep 21 2026 Kseniia Nivnia <knivnia@redhat.com> - 0.158.0-2
 - Add Chrony receiver
 * Fri Aug 07 2026 Benedikt Bongartz <bongartz@redhat.com> - 0.158.0-1
