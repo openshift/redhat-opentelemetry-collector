@@ -372,3 +372,18 @@ allow:
       - github.com/prometheus/prometheus/storage/remote/azuread
       - github.com/Azure/azure-sdk-for-go/sdk/azidentity
     reason: transitive dep of prometheus/config; Prometheus receiver uses scrape config only, not remote write or Azure AD auth
+
+  # --- Prometheus receiver: scrypt via OCI discovery ---
+  # Transitive dependency: prometheusreceiver pulls in prometheus/plugins which registers
+  # OCI discovery. OCI discovery uses oracle/oci-go-sdk which imports youmark/pkcs8 for
+  # private key handling, which in turn imports scrypt. OCI service discovery is never
+  # configured or activated in the Red Hat collector — it requires explicit OCI SD config.
+  - package: golang.org/x/crypto/scrypt
+    chain:
+      - github.com/openshift/redhat-opentelemetry-collector
+      - github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusreceiver
+      - github.com/prometheus/prometheus/plugins
+      - github.com/prometheus/prometheus/discovery/oci
+      - github.com/oracle/oci-go-sdk/v65/common
+      - github.com/youmark/pkcs8
+    reason: transitive dep via OCI service discovery; OCI SD is never configured in the Red Hat collector
