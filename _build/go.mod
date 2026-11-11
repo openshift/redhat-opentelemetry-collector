@@ -261,7 +261,7 @@ require (
 	github.com/hetznercloud/hcloud-go/v2 v2.44.0 // indirect
 	github.com/iancoleman/strcase v0.3.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/invopop/jsonschema v0.13.0 // indirect
+	github.com/invopop/jsonschema v0.14.0 // indirect
 	github.com/ionos-cloud/sdk-go/v6 v6.3.8 // indirect
 	github.com/jaegertracing/jaeger-idl v0.9.0 // indirect
 	github.com/jcmturner/aescts/v2 v2.0.0 // indirect
