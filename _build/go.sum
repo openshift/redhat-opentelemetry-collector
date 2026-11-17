@@ -1258,8 +1258,6 @@ go.opentelemetry.io/contrib/zpages v0.70.0 h1:uBcclHekIrCRLO4KZfXiebDcWB52QQXaHG
 go.opentelemetry.io/contrib/zpages v0.70.0/go.mod h1:Nz9A1+68HVoJrk+cg92zJbcbHFAa+Jbl1uINwAlcK94=
 go.opentelemetry.io/ebpf-profiler v0.0.202640 h1:JIKjqug6G/8Y0He3f5yLB4DxRQ+99b6x0gA1uORk7aU=
 go.opentelemetry.io/ebpf-profiler v0.0.202640/go.mod h1:wTeUQFaGYXa1LOxeUNLK9OHneCAKo3+QTt/KxtCyVk4=
-go.opentelemetry.io/obi/collector v0.15.2 h1:dpYcR4Ktn0YqQjBHmTFn8GrZ6C0kZyRFWAn6mA7wq+0=
-go.opentelemetry.io/obi/collector v0.15.2/go.mod h1:XpHRHC1pGUv8F3hoffI4hsKsIhzIXVjYG/pBsDKr8xI=
 go.opentelemetry.io/otel v1.47.0 h1:j7ALJ/zgkS7Z6aeJW09p8VC9804bC+PpeTfCD4XPnOM=
 go.opentelemetry.io/otel v1.47.0/go.mod h1:8wS9O2qfXrYrzp6hIF/HOYJJf/wIhFPhR2xLuP+iXQU=
 go.opentelemetry.io/otel/exporters/otlp/otlplog/otlploggrpc v0.23.0 h1:5Ek4qQ5XX0PSQfY7lMW3CvcR36yy8YFDfGnYnaku8zE=

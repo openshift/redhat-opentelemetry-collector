@@ -566,3 +566,5 @@ require (
 )
 
 replace go.opentelemetry.io/obi => ../.obi-src
+
+replace go.opentelemetry.io/obi/collector => ../.obi-src/collector

@@ -165,7 +165,7 @@ func components() (otelcol.Factories, error) {
 		k8sobjectsreceiver.NewFactory().Type(): "github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8sobjectsreceiver v0.163.0",
 		otlpjsonfilereceiver.NewFactory().Type(): "github.com/open-telemetry/opentelemetry-collector-contrib/receiver/otlpjsonfilereceiver v0.163.0",
 		webhookeventreceiver.NewFactory().Type(): "github.com/open-telemetry/opentelemetry-collector-contrib/receiver/webhookeventreceiver v0.163.0",
-		collector.NewFactory().Type(): "go.opentelemetry.io/obi v1.0.0",
+		collector.NewFactory().Type(): "go.opentelemetry.io/obi/collector v0.15.2",
 	})
 
 	factories.Exporters, err = otelcol.MakeFactoryMap[exporter.Factory](
