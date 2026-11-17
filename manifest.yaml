@@ -35,7 +35,6 @@ exporters:
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awscloudwatchlogsexporter v0.158.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awsemfexporter v0.158.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awsxrayexporter v0.158.0
-  - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/exporter/googlecloudexporter v0.158.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/exporter/loadbalancingexporter v0.158.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/exporter/fileexporter v0.158.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/exporter/syslogexporter v0.158.0
