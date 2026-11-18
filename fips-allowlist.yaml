@@ -341,7 +341,7 @@ allow:
       - github.com/foxboron/go-tpm-keyfiles
     reason: go-tpm-keyfiles only uses chacha20poly1305.KeySize constant for HKDF sizing, no AEAD cipher constructed
 
-  # --- Google Cloud exporter: chacha20poly1305 via S2A ---
+  # --- Google client auth extension: chacha20poly1305 via S2A ---
   # S2A (Secure Session Agent) is Google's VM-to-VM mTLS transport, only active on GCE when the
   # metadata server provides an S2A address. The S2A Go client offers ChaCha20-Poly1305 as one of
   # three cipher suites; the actual cipher is selected by the remote S2A handshaker server.
@@ -349,8 +349,8 @@ allow:
   - package: golang.org/x/crypto/chacha20poly1305
     chain:
       - github.com/openshift/redhat-opentelemetry-collector
-      - github.com/open-telemetry/opentelemetry-collector-contrib/exporter/googlecloudexporter
-      - github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/collector
+      - github.com/open-telemetry/opentelemetry-collector-contrib/extension/googleclientauthextension
+      - github.com/open-telemetry/opentelemetry-collector-contrib/extension/googleclientauthextension/internal/clientauth
       - google.golang.org/api/option
       - google.golang.org/api/internal
       - github.com/google/s2a-go
